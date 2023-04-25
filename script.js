@@ -23,7 +23,7 @@ function foo(data1){
     <li class="list-group-item">description:${data1[i].description}</li>
   </ul>
   <div class="card-body">
-    <a href="${data1[i].latlng}" class="card-link">Click for Weather</a>
+    <a href="${data1[i].product_link}" class="card-link">Click for Weather</a>
   </div>
 </div>
 
